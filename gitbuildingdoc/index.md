@@ -20,5 +20,4 @@ This page provides a few thoughts about the project, while the links below conta
 * [Assembling microscope](assembly.md){step}
 * [Raspberry Pi Software](raspberrypi.md){step}
 * [Android Software installation](androidinstallation.md){step}
-* [App instructions](appinstructions.md){step}
 * [Helminth dataset](dataset.md){step}
